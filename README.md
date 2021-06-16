@@ -7,7 +7,7 @@ A/B testing is the process of comparing 2 versions of the same asset, and evalua
 2. Implementing statistical tests to evaluate the merit of promotional campaigns against each other
 <br><br>
 
-<b>Data Ingestion, Exploratory Data Analysis & Data Visualization</b>
+<b>Data Ingestion, Exploratory Data Analysis & Data Visualization -</b><br>
 The data was ingested using an xlsx file.<br>
 Based on initial exploration we collect the following information -<br>
 The promotions were run across 137 distinct locations<br>
