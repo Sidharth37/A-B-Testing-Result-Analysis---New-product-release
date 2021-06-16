@@ -17,3 +17,9 @@ d. All 3 market sizes namely - large, medium and small participated in these cam
 e. Predominantly medium market sizes were used to run all the 3 campaigns<br>
 f. Also there seems to be a preference for newer store as compared to older stores<br>
 
+Also based on the exporatory analysis and data visualizations performed above we can sucessfully conclude that the campaigns were run across markets of similar attributes, which is a pre-requisite of AB Testing.<br><br>
+
+<b>Implementing statistical tests to evaluate the merit of promotional campaigns against each other</b><br>
+We start by computing the averages for individual promotional campaigns. Based on the initial glance, on an average promotional campaign 1 is performing better than the rest. But this could really be due to the randomness of the sample. To ensure this isn't the case we go on to perform statistical tests to verify if our results are statistically significant. The statistical test of our choice is 2 sample t-test.<br>
+We start by comparing promotional campaign 1 and 2. Based on the results of the 1st t-test we derived that campaign 1 was statistically significantly performing better as compared to campaign 2 at 95% confidence level. Now that we know campaign is better than campaign 2, we move on to compare campaign 1 and 3. Based on the second t-test we could not find conclusive evidence. To further analyze which campaign is better we would need to perform additional experimentation and would require additonal data. Summing up everything we can say that campaign 1 and campaign 3 outperform campaign 2, but we do not have a clear winner between campaign 1 and campaign 3. 
+
