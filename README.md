@@ -8,11 +8,11 @@ A/B testing is the process of comparing 2 versions of the same asset, and evalua
 <br><br>
 <b>Data Ingestion, Exploratory Data Analysis & Data Visualization</b>
 The data was ingested using an xlsx file.<br>
-Based on initial exploration we collect the following information -
-The promotions were run across 137 distinct locations
-These campaigns were run across both old and new stores
-The largest sales recorded was due to Promotional campaign 3, followed by promotional campaign 1, followed by promotional campaign 2.
-All 3 market sizes namely - large, medium and small participated in these campaigns
-Predominantly medium market sizes were used to run all the 3 campaigns
-Also there seems to be a preference for newer store as compared to older stores
+Based on initial exploration we collect the following information -<br>
+The promotions were run across 137 distinct locations<br>
+These campaigns were run across both old and new stores<br>
+The largest sales recorded was due to Promotional campaign 3, followed by promotional campaign 1, followed by promotional campaign 2.<br>
+All 3 market sizes namely - large, medium and small participated in these campaigns<br>
+Predominantly medium market sizes were used to run all the 3 campaigns<br>
+Also there seems to be a preference for newer store as compared to older stores<br>
 
